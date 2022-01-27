@@ -1,0 +1,8 @@
+How to use:
+1) Make an account for your twitch bot
+2) go to http://twitchapps.com/tmi and login with the bot and get the authcode.
+3) Open up the source code .java for Bot.java and change line 6, this.setName("YOUR BOTS USERNAME HERE CASE SENSITIVE");
+4) go to Config.java and change line 7, String channel = "#YOUR CHANNEL NAME HERE";
+the hashtag is necessary
+5) Run and close out via task manager when done (OpenJDK Platform binary)
+6) Enjoy and give me credits if you use my bot

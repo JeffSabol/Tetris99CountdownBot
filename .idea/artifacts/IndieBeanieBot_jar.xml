@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IndieBeanieBot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IndieBeanieBot_jar</output-path>
+    <root id="archive" name="IndieBeanieBot.jar">
+      <element id="module-output" name="IndieBeanieBot" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/pircbot-1.5.0/pircbot.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
